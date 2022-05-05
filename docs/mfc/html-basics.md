@@ -99,6 +99,8 @@ Life is good.
 </HTML>
 ```
 
+If you have followed all the instructions in this article, you should end up with a page that looks like [the one](https://goonlinetools.com/html-viewer/?e=DwCQKgsgMgfAUAAiQxzQFECCARez8LBgCSYU6MYA9gA4LjQJgCGA5gM7AD0JZFqSbiCy4BKfMABCAeWwBNGAygIAluwTsA7gFMANroB0YiZIBKMKCoBm21etZUqAEyMFkcUAGZF2gE7aAcnUAFwALWwAjFVYEGhUAY2CAV38hbzhjNGIIAHENX3iAXgAiAE8qFKsVXW0DVmtivDdCAFVYCGYAa1sAW1tmADsEJIGqXyc-bScEXTVg12aJKGIYaQHbGl8qVl9mHr7fbmWmxcFjsG0hgGVsAGlOLmPMt2BjnP9mYIRiAeC-da+mBoNAeT0W3DaJ0IXBk8ngHi4ShgQA).
+
 For a complete description of tags, attributes, and extensions, see the Hypertext Markup Language (HTML) specification:
 
 [Latest published version of HTML](https://www.w3.org/TR/html/) at W3C.org.
